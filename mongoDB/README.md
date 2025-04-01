@@ -8,7 +8,9 @@ For more info, refer: https://www.mongodb.com/docs/manual/replication/
 
 ### Installation ###
 
-Refer cloud-formation template for mongoDB installation.
+Refer below cloud-formation template for mongoDB installation.
+
+https://github.com/cloud-martian/app-stack/tree/main/cloud-formation
 
 ### Configurations ###
 Edit the /etc/mongod.conf file on each node
